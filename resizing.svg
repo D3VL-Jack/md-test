@@ -1,0 +1,23 @@
+<!-- a 10x10 red square, styled with css and using a div -->
+<!--  -->
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.square {
+				width: 10px;
+				height: 10px;
+				background-color: red;
+				}
+				@media (max-width: 600px) {
+				.square {
+				width: 100px;
+				height: 100px;
+				}
+				}
+			</style>
+			<div class="square">
+			</div>
+		</div>
+	</foreignObject>
+</svg>
