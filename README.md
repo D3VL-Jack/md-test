@@ -7,3 +7,8 @@
 <a href="#self" id="self">
     <img src="https://raw.githubusercontent.com/D3VL-Jack/md-test/main/resizing.svg" ismap>
 </a>
+
+<a href="#self" id="self">
+    <img src="https://n3w.d3vl.com/resizing.svg" ismap>
+</a>
+
