@@ -1,7 +1,7 @@
 <svg fill="none" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-			<iframe src="https://d3vl.com" width="100%" height="100%">
+			<iframe src="data:text/html;charset=utf-8,%3Chtml%3E%3Cbody%3Efoo%3C/body%3E%3C/html%3E" width="100%" height="100%">
 			</iframe>
 		</div>
 	</foreignObject>

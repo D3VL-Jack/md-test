@@ -5,7 +5,5 @@
 
 
 <a href="#self" id="self">
-    <img src="https://raw.githubusercontent.com/D3VL-Jack/md-test/main/resizing.svg" alt="image-map" ismap>
+    <img src="https://raw.githubusercontent.com/D3VL-Jack/md-test/main/resizing.svg" ismap>
 </a>
-
-<img src="https://filesamples.com/samples/video/mjpeg/sample_1280x720.mjpeg" alt="image-map" ismap>
