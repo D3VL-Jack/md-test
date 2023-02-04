@@ -7,7 +7,3 @@
 <a href="#self" id="self">
     <img src="https://raw.githubusercontent.com/D3VL-Jack/md-test/main/resizing.svg" ismap>
 </a>
-
-
-<label for="file">Downloading progress:</label>
-<progress id="file" value="32" max="100"> 32% </progress>
