@@ -32,6 +32,13 @@
 			<progress id="file" value="32" max="100">
 				32%
 			</progress>
+			<label for="volume">
+				Volume:
+			</label>
+			<input id="volume" type="range" min="0" max="11" />
+			<label for="volume">
+				Volume:
+			</label>
 		</div>
 	</foreignObject>
 </svg>
